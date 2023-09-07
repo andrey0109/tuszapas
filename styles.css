@@ -120,6 +120,8 @@ header{
     border: #764ba2;
     border-radius: 15px;
     color: #000;
+    height:100vh;
+
 }
 
 .contenedor-servicio img{
